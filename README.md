@@ -37,3 +37,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="django" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="24px" height="24px"/>
 </p>
+
+![Jlferrete's used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlferrete&theme=dark)
