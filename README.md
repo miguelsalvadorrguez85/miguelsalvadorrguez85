@@ -33,9 +33,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
-  
-  https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg
-   
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsalvadorrguez85&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
