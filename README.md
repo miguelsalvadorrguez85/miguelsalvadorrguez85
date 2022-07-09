@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hi, my name is Miguel Ángel 👋 💻 ⚛️ ✈️ </h2>
 
-<hr>
-
-<p>Looking for a job</p>
+<p>I'm a junior web developer who is passionate about improving people's lives through technology, putting effort into every detail of my code and learning as much as possible from the community. Some technologies I enjoy working with include Javascript, Vue, PHP, Java, Spring and mySQL</p>
