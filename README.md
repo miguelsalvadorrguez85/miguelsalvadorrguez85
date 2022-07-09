@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Hi, my name is Miguel Ángel 👋 💻 ⚛️ ✈️ </h2>
+
+<hr>
+
+<p>Looking for a job</p>
