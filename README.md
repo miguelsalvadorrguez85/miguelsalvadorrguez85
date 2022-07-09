@@ -31,9 +31,10 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="java spring boot" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="24px" height="24px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" width="24px" height="24px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="css3" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="24px" height="24px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="24px" height="24px"/>
   
-  
+  https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg
    
 </p>
 
