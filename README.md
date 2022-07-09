@@ -38,4 +38,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="24px" height="24px"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelsalvadorrguez85)](https://github.com/anuraghazra/github-readme-stats)
+
 
