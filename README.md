@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-   <img src="https://i.ibb.co/CHrD5S6/memoji.png" alt="Memoji de Miguel" width="200" height="200">
+   <img src="https://i.ibb.co/CHrD5S6/memoji.png" alt="Memoji de Miguel" width="150" height="150">
 </p>
 
 <h2 align="center">Hi, my name is Miguel Ángel 👋 💻 ⚛️ ✈️ </h2>
