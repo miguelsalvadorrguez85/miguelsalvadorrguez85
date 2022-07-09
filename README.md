@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
+<p align="center">
    <img src="https://i.ibb.co/CHrD5S6/memoji.png" alt="Memoji de Miguel" width="200" height="200">
 </p>
 
