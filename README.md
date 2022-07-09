@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img display="block" margin="auto" src="https://i.ibb.co/CHrD5S6/memoji.png" alt="Memoji de Miguel" width="200" height="200">
+<p>
+   <img src="https://i.ibb.co/CHrD5S6/memoji.png" alt="Memoji de Miguel" width="200" height="200">
+</p>
 
 <h2 align="center">Hi, my name is Miguel Ángel 👋 💻 ⚛️ ✈️ </h2>
 
